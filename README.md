@@ -17,9 +17,6 @@ This journey is not just about mastering tools; it's a relentless pursuit of dig
 - 🤝 I'm open to collaborating on Python projects
 - ⚡ I love supporting and motivating others.
 
-<a href="https://www.github.com/VictorNalu" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VictorNalu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.x.com/Nalu" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Nalu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-
 ## Skills
 
 <p align="left">
