@@ -2,13 +2,13 @@
 
 ## Content Creator and Tech Enthusiast
 
-Greetings, I'm Victor C. Onyebueke, but you can call me Nalu. My journey as a content creator unfolds amidst the intricate tools of Adobe – Photoshop, Illustrator, Premiere Pro, Lightroom, After Effects – as well as Canva and DaVinci Resolve. The current frontier of my exploration lies in the fascinating realm of Blender, where animation becomes an art form.
+I'm Victor C. Onyebueke, but you can call me Nalu. My journey as a content creator unfolds amidst the intricate tools of Adobe Photoshop, Illustrator, Premiere Pro, Lightroom, After Effects, Canva and DaVinci Resolve.
 
 Beyond crafting visual narratives, I thrive on helping brands navigate the ever-evolving landscape of social media. From formulating impactful strategies to unlocking monetization opportunities, I'm committed to transforming digital presence into a vibrant success story.
 
-Fueling my passion for technology, I'm deeply involved in the tech community. Volunteering at Youversion within the Product Support team, I immerse myself in the intricacies of digital products. Simultaneously, I'm embarking on a journey into Software Engineering, delving into the intricacies of coding and software development. With a sprinkle of UX expertise, I navigate the delicate balance between user-centric design and the cutting edge of technology.
+Currently, I'm learning Software Engineering in ALX.
 
-This journey is not just about mastering tools; it's a relentless pursuit of digital exploration and innovation. Join me in this dynamic fusion of creativity, technology, and strategy. Together, let's push boundaries, challenge norms, and carve out a space where imagination and innovation converge seamlessly. 🚀💻🎨
+This journey is not just about mastering tools; it's a relentless pursuit of digital exploration and innovation 🚀💻🎨.
 
 - 🌍 I'm based in Nigeria
 - 🖥 See my portfolio at [My Portfolio](http://www.canva.com/design/DAFtq8Nzkqw/UwfEb6ubdwd5CSysRw3qsg/edit?utm_content=DAFtq8Nzkqw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
