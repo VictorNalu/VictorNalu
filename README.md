@@ -6,7 +6,7 @@ I'm Victor C. Onyebueke, but you can call me Nalu. My journey as a content creat
 
 Beyond crafting visual narratives, I thrive on helping brands navigate the ever-evolving landscape of social media. From formulating impactful strategies to unlocking monetization opportunities, I'm committed to transforming digital presence into a vibrant success story.
 
-Currently, I'm learning Software Engineering in ALX.
+Currently, I'm learning Software Engineering at ALX.
 
 This journey is not just about mastering tools; it's a relentless pursuit of digital exploration and innovation 🚀💻🎨.
 
