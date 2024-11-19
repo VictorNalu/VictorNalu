@@ -11,7 +11,6 @@ Currently, I'm learning Software Engineering at ALX.
 This journey is not just about mastering tools; it's a relentless pursuit of digital exploration and innovation 🚀💻🎨.
 
 - 🌍 I'm based in Nigeria
-- 🖥 See my portfolio at [My Portfolio](http://www.canva.com/design/DAFtq8Nzkqw/UwfEb6ubdwd5CSysRw3qsg/edit?utm_content=DAFtq8Nzkqw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - ✉ You can contact me at [victorchinalurumogu@gmail.com](mailto:victorchinalurumogu@gmail.com)
 - 🤝 I'm open to collaborating on projects
 - ⚡ I love supporting and motivating others.
