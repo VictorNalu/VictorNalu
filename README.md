@@ -1,8 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Victor C. Onyebueke
 
-## Content Creator and Tech Enthusiast
-
-I'm Victor C. Onyebueke, but you can call me Nalu. My journey as a content creator unfolds amidst the intricate tools of Adobe Photoshop, Illustrator, Premiere Pro, Lightroom, After Effects, Canva and DaVinci Resolve.
+## UX Developer & IT Support Specialist
 
 Beyond crafting visual narratives, I thrive on helping brands navigate the ever-evolving landscape of social media. From formulating impactful strategies to unlocking monetization opportunities, I'm committed to transforming digital presence into a vibrant success story.
 
