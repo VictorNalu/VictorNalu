@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Victor C. Onyebueke**  
 
-## UX Developer | IT Support Specialist | Tech Enthusiast  
+## UX Developer | IT Support Specialist | AI Enthusiast  
 
 Welcome to my GitHub profile!  
 I’m passionate about designing intuitive user experiences and solving technical challenges to create efficient, user-focused digital solutions. My work bridges the gap between design and functionality, ensuring seamless interactions for end users.  
